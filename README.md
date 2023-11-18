@@ -1,0 +1,2 @@
+# windows10_LAMP
+在windows10上搭建LAMP详细步骤
